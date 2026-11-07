@@ -1,8 +1,10 @@
 WeIntern Data Science Internship - Week 1 Project
 
 📌Week Number and Objective
+
  Week: Week 1
  Objective: The goal is to clean data, analyze key performance indicators (KPIs), and visualize sales trends.
+
  Dataset Description
  Dataset Name:'ecommerce_data.csv'
  Description:Contains e-commerce transaction details including order IDs,product categories,quantities sold,prices,payment methods,and timestamps.
@@ -25,7 +27,6 @@ data-science-week1-assignment/
 └── README.md                         # Project Documentation
 
 Author Details
-
 Name: Himani Surendra More
 Internship:WEIntern Pvt Ltd Data Science Internship.
 
