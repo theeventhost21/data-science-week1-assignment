@@ -56,3 +56,4 @@ https://github.com/theeventhost21/data-science-week1-assignment/blob/main/Screen
 https://github.com/theeventhost21/data-science-week1-assignment/blob/main/Data%20Cleaning%20Output.png
 https://github.com/theeventhost21/data-science-week1-assignment/blob/main/KPI%20Analysis%20Result.png
 https://github.com/theeventhost21/data-science-week1-assignment/blob/main/dataset-overview.png
+https://github.com/theeventhost21/data-science-week1-assignment/blob/main/dashboard-mockup.png
