@@ -8,7 +8,9 @@ WeIntern Data Science Internship - Week 1 Project
  Objective: The goal is to clean data, analyze key performance indicators (KPIs), and visualize sales trends.
 
  Dataset Description
+ 
  Dataset Name:'ecommerce_data.csv'
+ 
  Description:Contains e-commerce transaction details including order IDs,product categories,quantities sold,prices,payment methods,and timestamps.
  
  🛠️ Tools & Technologies Used
