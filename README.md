@@ -3,6 +3,8 @@ WeIntern Data Science Internship - Week 1 Project
 📌Week Number and Objective
 
  Week: Week 1
+
+ 
  Objective: The goal is to clean data, analyze key performance indicators (KPIs), and visualize sales trends.
 
  Dataset Description
@@ -30,8 +32,10 @@ Folder structure
 
 data-science-week1-assignment/
 │
-├── weintern_week1_project (1).py     # Google Colab Project File
-└── README.md                         # Project Documentation
+├── weintern_week1_project (1).py
+# Google Colab Project File
+└── README.md    
+# Project Documentation
 
 
 Author Details
