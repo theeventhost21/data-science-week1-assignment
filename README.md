@@ -9,7 +9,8 @@ WeIntern Data Science Internship - Week 1 Project
  Dataset Name:'ecommerce_data.csv'
  Description:Contains e-commerce transaction details including order IDs,product categories,quantities sold,prices,payment methods,and timestamps.
  
- 🛠️ Tools & Technologies UsedPython
+ 🛠️ Tools & Technologies Used
+ 
 Platform:Google Colab
 Language:Python
 Libraries:Pandas & Matplotlib (for Data Analysis & Visualization)
