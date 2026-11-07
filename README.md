@@ -1,7 +1,6 @@
+WeIntern Data Science Internship - Week 1 Project
 
- WeIntern Data Science Internship - Week 1 Project
- 
- 📌Week Number and Objective
+📌Week Number and Objective
  Week: Week 1
  Objective: The goal is to clean data, analyze key performance indicators (KPIs), and visualize sales trends.
  Dataset Description
