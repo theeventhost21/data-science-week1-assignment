@@ -29,4 +29,7 @@ Author Details
 Name: Himani Surendra More
 Internship:WEIntern Pvt Ltd Data Science Internship.
 
+Markdown
+Screenshots & Visual Outputs
+https://github.com/theeventhost21/data-science-week1-assignment/blob/main/Screenshot
 
