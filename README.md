@@ -26,13 +26,20 @@ Libraries:Pandas & Matplotlib (for Data Analysis & Visualization)
 
 Folder structure
 
+
+
 data-science-week1-assignment/
 │
 ├── weintern_week1_project (1).py     # Google Colab Project File
 └── README.md                         # Project Documentation
 
+
 Author Details
+
+
 Name: Himani Surendra More
+
+
 Internship:WEIntern Pvt Ltd Data Science Internship.
 
 Markdown
