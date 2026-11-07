@@ -14,9 +14,9 @@
 ## 4. KPI Summary
 |Metric |Value
 | :--- | :--- |
- Total Revenue      $62,500.00 
- Total Orders       6 
- Average Order Value (AOV)     $10,416.67 
+ Total Revenue   |   $62,500.00 
+ Total Orders    |   6 
+ Average Order Value (AOV)   |  $10,416.67 
 
 ## 5. Trend Analysis
 - Sales revenue over time was visualized using a time-series line chart.
