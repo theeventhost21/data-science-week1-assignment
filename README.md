@@ -35,3 +35,4 @@ Screenshots & Visual Outputs
 https://github.com/theeventhost21/data-science-week1-assignment/blob/main/Screenshot
 https://github.com/theeventhost21/data-science-week1-assignment/blob/main/Screenshot%20Pie%20Chart
 https://github.com/theeventhost21/data-science-week1-assignment/blob/main/Screenshot(Bar%20Chart)
+https://github.com/theeventhost21/data-science-week1-assignment/blob/main/Data%20Cleaning%20Output.png
