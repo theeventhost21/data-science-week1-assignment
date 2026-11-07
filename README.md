@@ -12,9 +12,13 @@ WeIntern Data Science Internship - Week 1 Project
  🛠️ Tools & Technologies Used
  
 Platform:Google Colab
+
 Language:Python
+
 Libraries:Pandas & Matplotlib (for Data Analysis & Visualization)
 
+ 
+ 
  📊 Key Tasks Completed
 1. Data Cleaning:* Handled missing values and duplicates in ecommerce_data.csv.
 2. Sales & KPI Analysis:* Calculated Total Revenue, Total Orders, Average Order Value, Total Units Sold, Top Category, and Best Product.
