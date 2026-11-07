@@ -12,7 +12,7 @@
 - Formatted date columns correctly for accurate chronological time-series analysis.
 
 ## 4. KPI Summary
-| Metric | Value |
+|Metric |Value
 | :--- | :--- |
  Total Revenue      $62,500.00 
  Total Orders       6 
