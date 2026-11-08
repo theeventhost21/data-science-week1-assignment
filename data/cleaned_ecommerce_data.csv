@@ -1,0 +1,7 @@
+Order ID,Customer ID,Product Name,Category,Quantity,Unit Price,Total Amount,Order Date,Payment Mode,Delivery Status,City or Region
+1001,C001,Laptop,Electronics,1,50000,50000,2026-01-10,UPI,Delivered,Mumbai
+1002,C002,Running Shoes,Footwear,2,2500,5000,2026-01-12,Credit Card,Delivered,Pune
+1003,C003,T-Shirt,Clothing,3,800,2400,2026-01-15,COD,Shipped,Nagpur
+1005,C004,Coffee Mug,Home & Kitchen,4,300,1200,2026-01-20,UPI,Cancelled,Nashik
+1006,C005,Backpack,Travel,1,1500,1500,2026-01-22,Credit Card,Delivered,Pune
+1007,C002,Jeans,Clothing,2,1200,2400,2026-01-25,COD,Pending,Pune
